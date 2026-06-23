@@ -1,11 +1,1 @@
-compound_name,binding_affinity_kcal_mol,rmsd_lower,rmsd_upper,mw_da,hbd,hba,logp,passes_lipinski
-Aesculin,-6.39,0,0,340.28,5,8,0.21,TRUE
-Quercetin,-7.12,0,0,302.24,5,7,-0.78,TRUE
-Rutin,-5.88,1.24,1.87,610.52,10,16,-1.34,FALSE
-Berberine,-6.74,0,0,336.37,0,4,2.31,TRUE
-Naringenin,-6.21,0,0,272.26,3,5,1.44,TRUE
-Hypericin,-4.95,2.11,3.44,504.44,4,6,2.76,TRUE
-Kaempferol,-7.33,0,0,286.24,4,6,-0.71,TRUE
-Apigenin,-6.58,0,0,270.24,3,5,1.06,TRUE
-Curcumin,-5.44,1.77,2.9,368.38,2,6,2.5,TRUE
-Gallic_acid,-4.81,0,0,170.12,4,5,-1.14,TRUE
+
