@@ -1,5 +1,5 @@
 compound_name,binding_affinity_kcal_mol,rmsd_lower,rmsd_upper,mw_da,hbd,hba,logp,passes_lipinski
-Aesculin,-6.39,0,0,340.28,5,8,0.21,TRUE
+Hesperidin,-7.8,0,0,610.56,8,15,0.31,TRUE
 Quercetin,-7.12,0,0,302.24,5,7,-0.78,TRUE
 Rutin,-5.88,1.24,1.87,610.52,10,16,-1.34,FALSE
 Berberine,-6.74,0,0,336.37,0,4,2.31,TRUE
