@@ -8,26 +8,3 @@ authors:
 version: 1.0.0
 date-released: 2026-06-19
 url: "https://github.com/AmirSedaghaati/vina-docking-pipeline"
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "Khakpour"
-      given-names: "Ali"
-    - family-names: "Ahmadi Shadmehri"
-      given-names: "Negar"
-    - family-names: "Sedaghati"
-      given-names: "Amir"
-    - family-names: "Jamshidian"
-      given-names: "Hassan"
-    - family-names: "Ghiabi"
-      given-names: "Shamim"
-    - family-names: "Baziyar"
-      given-names: "Payam"
-    - family-names: "Heidari-Soureshjani"
-      given-names: "Ehsan"
-    - family-names: "Mirahmadi"
-      given-names: "Seyedeh Atefeh"
-  title: "Computational screening of walnut (Juglans regia) husk metabolites reveals Aesculin as a potential inhibitor of pectate lyase Pel3: Insights from molecular dynamics and τRAMD"
-  journal: "Biochemical and Biophysical Reports"
-  year: 2025
-  doi: "10.1016/j.bbrep.2025.102171"
