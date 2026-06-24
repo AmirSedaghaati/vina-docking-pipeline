@@ -36,7 +36,11 @@ python parse_and_filter.py --input data/mock_data/docking_results.csv --results 
 
 ## Mock Data
 
-`data/mock_data/docking_results.csv` is illustrative test data for running the pipeline end-to-end. The compound list and Aesculin's affinity value are drawn from the published screening study (Biochemical and Biophysical Reports, https://doi.org/10.1016/j.bbrep.2025.102171); the remaining affinity values are representative, not the exact reported figures for every compound in that study.
+`data/mock_data/docking_results.csv` is a synthetic dataset generated to
+exercise the pipeline end-to-end. The compound names are real natural-product
+molecules commonly used in docking-study examples; the binding-affinity
+values are fabricated for demonstration purposes and do not correspond to
+any actual docking run, published or unpublished.
 
 ## File Structure
 
