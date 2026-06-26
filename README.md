@@ -64,3 +64,6 @@ vina-docking-pipeline/
 
 ```bash
 python parse_and_filter.py --input data/mock_data/docking_results.csv --results results/
+```
+
+![Binding affinity chart](results/affinity_chart.png)
