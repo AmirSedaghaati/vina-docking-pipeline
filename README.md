@@ -60,3 +60,7 @@ vina-docking-pipeline/
 ├── requirements.txt
 └── README.md
 ```
+## Example output
+
+```bash
+python parse_and_filter.py --input data/mock_data/docking_results.csv --results results/
