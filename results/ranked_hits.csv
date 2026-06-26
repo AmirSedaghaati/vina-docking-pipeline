@@ -1,0 +1,10 @@
+rank,compound_name,binding_affinity_kcal_mol,rmsd_lower,rmsd_upper,mw_da,is_hit
+1,Hesperidin,-7.8,0.0,0.0,610.56,True
+2,Kaempferol,-7.33,0.0,0.0,286.24,True
+3,Quercetin,-7.12,0.0,0.0,302.24,True
+4,Berberine,-6.74,0.0,0.0,336.37,True
+5,Apigenin,-6.58,0.0,0.0,270.24,True
+6,Naringenin,-6.21,0.0,0.0,272.26,True
+7,Curcumin,-5.44,1.77,2.9,368.38,False
+8,Hypericin,-4.95,2.11,3.44,504.44,False
+9,Gallic_acid,-4.81,0.0,0.0,170.12,False
