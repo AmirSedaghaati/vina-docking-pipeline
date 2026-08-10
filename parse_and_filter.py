@@ -24,7 +24,7 @@ def apply_lipinski_filter(df):
     preparation (e.g. using RDKit); this function filters on that flag.
     """
     before = len(df)
-    df_filtered = df[df["passes_lipinski"] == True].copy()
+    df_filtered = df[df["passes_lipinski"]].copy()
     after = len(df_filtered)
     print(f"Lipinski filter: {before} -> {after} compounds retained")
     return df_filtered
