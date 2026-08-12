@@ -16,6 +16,8 @@ The parseandfilter.py script automates this:
 4. Flags "hits" to an user-defined binding affinity threshold.
 5. Writes out a ranked summary table and a bar chart of binding affinities.
 
+Note: `data/mock_data/compound_library_mock.csv` is only a placeholder *input* list used to demonstrate the pipeline — the compound names are illustrative, but the properties returned when you run the script are real values fetched live from PubChem, not fabricated.
+
 ## Technical Stack
 
 | Component | Function |
@@ -67,3 +69,8 @@ python parse_and_filter.py --input data/mock_data/docking_results.csv --results 
 ```
 
 ![Binding affinity chart](results/affinity_chart.png)
+
+## Related repositories
+
+- [cadd-fastapi-service](https://github.com/AmirSedaghaati/cadd-fastapi-service) — FastAPI service exposing this pipeline's docking-result parsing as an endpoint
+- [pubchem-metabolite-descriptor-fetcher](https://github.com/AmirSedaghaati/pubchem-metabolite-descriptor-fetcher) — batch descriptor retrieval pipeline (Python + R)
