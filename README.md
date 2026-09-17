@@ -4,7 +4,7 @@ This automated pipeline is designed to parse, filter and rank the AutoDock Vina 
 
 ## Background
 
-Post-processing large-library docking with AutoDock Vina means obtaining binding affinities, checking them against Lipinski's rule of 5, and ordering the hits. Doing this manually across a hundred compounds is tedious, error-prone, and becomes a real bottleneck in the lead discovery phase.
+After a large-library AutoDock Vina run, you're left with binding affinities to pull out, Lipinski checks to run, and hits to rank. Across a hundred-plus compounds, doing that by hand gets tedious fast, and mistakes creep in exactly where you can least afford them — right before lead selection.
 
 ## Implementation
 
