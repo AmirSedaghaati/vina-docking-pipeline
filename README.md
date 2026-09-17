@@ -16,7 +16,7 @@ The parseandfilter.py script automates this:
 4. Flags "hits" to a user-defined binding affinity threshold.
 5. Writes out a ranked summary table and a bar chart of binding affinities.
 
-Note: `data/mock_data/compound_library_mock.csv` is only a placeholder *input* list used to demonstrate the pipeline — the compound names are illustrative, but the properties returned when you run the script are real values fetched live from PubChem, not fabricated.
+Note: `data/mock_data/compound_library_mock.csv` is only a placeholder input list used to demonstrate the pipeline — the compound names and docking results in it are illustrative, but the parsing, filtering, and ranking logic runs exactly the same way on real AutoDock Vina output.
 
 ## Technical Stack
 
