@@ -72,5 +72,5 @@ python parse_and_filter.py --input data/mock_data/docking_results.csv --results 
 
 ## Related repositories
 
-- [cadd-fastapi-service](https://github.com/AmirSedaghaati/cadd-fastapi-service) — FastAPI service exposing this pipeline's docking-result parsing as an endpoint
+- [cadd-fastapi-service](https://github.com/AmirSedaghaati/cadd-fastapi-service) — FastAPI service for descriptor retrieval and Lipinski screening (a docking-result endpoint is planned, not yet implemented)
 - [pubchem-metabolite-descriptor-fetcher](https://github.com/AmirSedaghaati/pubchem-metabolite-descriptor-fetcher) — batch descriptor retrieval pipeline (Python + R)
