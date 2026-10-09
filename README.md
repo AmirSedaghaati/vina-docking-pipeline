@@ -33,7 +33,7 @@ Run from the repository root:
 ```bash
 pip install -r requirements.txt
 
-python parse_and_filter.py --input data/mock_data/docking_results.csv --results results/
+python `parse_and_filter.py` --input data/mock_data/docking_results.csv --results results/
 ```
 
 ## Mock Data
